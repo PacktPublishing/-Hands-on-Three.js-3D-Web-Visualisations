@@ -1,4 +1,4 @@
-# Cisco Voice Solutions for Small and Medium-Sized Enterprises SME - CUCME [Video]
+# Hands-on Three.js 3D Web Visualisations [Video]
 This is the code repository for [Hands-on Three.js 3D Web Visualisations [Video]](https://www.packtpub.com/data/hands-on-three-js-3d-web-visualisations-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 Three.js is the most popular JavaScript library for displaying 3D content on the web, giving you the power to display incredible models, games, music videos, and scientific/data visualizations in your browser and even on your smartphone!
