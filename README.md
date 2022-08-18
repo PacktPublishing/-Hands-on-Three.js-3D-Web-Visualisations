@@ -3,7 +3,7 @@ This is the code repository for [Hands-on Three.js 3D Web Visualisations [Video]
 ## About the Video Course
 Three.js is the most popular JavaScript library for displaying 3D content on the web, giving you the power to display incredible models, games, music videos, and scientific/data visualizations in your browser and even on your smartphone!
 This course begins with a 3D beginner-level primer to 3D concepts and some basic examples to get you started with the most important features that Three.js has to offer. You'll learn how to quickly create a scene, camera, and renderer and how to add meshes using the Geometry primitives included with the library. You'll explore troubleshooting steps that will focus on some of the common pitfalls developers face. You'll learn the very sophisticated animation system included with the library. The course concludes by introducing post-processing, essentially adding filters to your rendered scene, and GLSL, the shading language that is used by all materials included with the library. You'll see how creating your materials is easier than you'd imagine using GLSL.
-By the end of this course, you'll be able to quickly add advanced features to your 3D scenes, improve the way users interact with them, and make them look stunning.
+By the end of this course, you'll be able to quickly add advanced features to your 3D scenes, improve the way users interact with them, and make them look stunning.</br> Note: The course uses r105 and the latest is r136.
 
 
 <H2>What You Will Learn</H2>
